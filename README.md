@@ -1,4 +1,5 @@
-#Databases-and-Data-Warehouses
+# Databases-and-Data-Warehouses
+
 We designed a database system for Car Rental. 
 
 Our database system for Car Rental efficiently manages interconnected entities such as Customer, Account, Car, Order, Store, and Store Representative,
